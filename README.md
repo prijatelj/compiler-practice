@@ -15,3 +15,6 @@ experience with c++ and is rough and imperfect. It is not to show off any of
 my skills or expertise in c++. It is to merely depict my experience and
 understanding of the rudimentary basics of compilers, along with serving as 
 a testimony to my understanding of c++ in these 2500 lines of code.
+
+This project is also before I began to follow better standards for coding 
+practices. ie. 80 columns per line, more descriptive variable names, etc... (essentially GNU coding standards).
