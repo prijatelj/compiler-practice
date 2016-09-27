@@ -8,3 +8,9 @@ fullest extent and is not as efficient as possible, for it was not
 necessarially meant for that. The main objective was to recreate a compiler 
 for a simplified code language to better understand the compiling process 
 and the intricacies involved in basic compiling of code.
+
+This code was written during the beginnings of my real programming
+experience with c++ and is rough and imperfect. It is not to show off any of
+my skills or expertise in c++. It is to merely depict my experience and
+understanding of the rudimentary basics of compilers, along with serving as 
+a testimony to my understanding of c++ in these 2500 lines of code.
