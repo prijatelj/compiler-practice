@@ -1,5 +1,6 @@
 Rudimentary Compiler for Practice & Education
 =
+Semester of Spring 2016 @ Duquesne University
 
 This is a practice compiler for a very simpified version of c written in 
 c++. This project was done as a course project for the class "System 
